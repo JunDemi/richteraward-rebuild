@@ -1,6 +1,8 @@
 ### `Richter Award 국제 온라인 콩쿠르`
+
 <img width="1512" alt="스크린샷 2024-03-05 오후 2 29 18" src="https://github.com/JunDemi/richteraward-rebuild/assets/26836516/d5c3d561-d2f2-45ad-8f81-ba6fafa0687b">
 동영상을 제출해서 경연하게 되는 온라인 국제 피아노 콩쿠르 사이트입니다.
+
 #### `프레임워크 & 언어`
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=react&logoColor=ffffff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff"/>
 #### `데이터베이스 & 백엔드 라이브러리`
